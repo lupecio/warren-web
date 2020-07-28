@@ -1,7 +1,7 @@
 # Warren Test
-Frontend web using React to show the features of warren test using.
+Frontend usando react para mostrar as funcionalidades do teste da warren.
 
-I have implementation four features:
+I had implantation four features
 
 * Statement
 * Deposit
