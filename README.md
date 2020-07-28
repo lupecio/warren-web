@@ -1,12 +1,17 @@
 # Warren Test
-Frontend usando react para mostrar as funcionalidades do teste da warren.
+Frontend using react to show the warren test features.
 
-I had implantation four features
+I had implantation four features:
 
 * Statement
 * Deposit
 * Bill
 * Withdraw
+
+I think I could have done more resources:
+
+* Best design and ux
+* Pagination
 
 ## Installation
 
